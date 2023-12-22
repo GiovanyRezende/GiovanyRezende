@@ -1,16 +1,26 @@
-### Hi there 👋
+# Prazer, eu me chamo Giovany! 👋
 
-<!--
-**GiovanyRezende/GiovanyRezende** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um estudante de Ciência de Dados com qualificação profissional em Administração de Banco de Dados pelo SENAI. Faço códigos nas seguintes linguagens:
+- 🐍Python;
+- 🖥SQL;
+- 📊R;
+- 🤖C++ para Arduino
 
-Here are some ideas to get you started:
+As áreas que me fascinam, seja para atuar ou por puro fascínio mesmo, são:
+- 📊Ciência de Dados, Análise de Dados e Estatística;
+- 🖥Banco de Dados;
+- ∞Matemática;
+- ⚛Física, Astronomia e Eletrônica;
+- 🤖Inteligência Artificial e Robótica;
+- 🧪Química
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Para contato, segue em anexo algumas formas!
+
+<div align= center>
+
+[![logo](https://cdn-icons-png.flaticon.com/256/174/174857.png)](https://br.linkedin.com/in/giovanyrezende)
+[![logo](https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/v1426048404/y4lxnqcngh5dvoaz06as.png)](https://github.com/GiovanyRezende)[
+![logo](https://logospng.org/download/gmail/logo-gmail-256.png)](mailto:giovanyrmedeiros@gmail.com)
+
+</div>
