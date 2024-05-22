@@ -23,6 +23,6 @@ Para contato, segue em anexo algumas formas!
 
 [![logo](https://logospng.org/download/gmail/logo-gmail-256.png)](mailto:giovanyrmedeiros@gmail.com)
 
-[![logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png)](https://www.instagram.com/giovanyr_medeiros/)
+[![logo](https://upload.wikimedia.org/wikipedia/commons/8/82/Instagram_image.png)](https://www.instagram.com/giovanyr_medeiros/)
 
 </div>
