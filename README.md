@@ -1,21 +1,21 @@
-# Prazer, eu me chamo Giovany! 👋
+# Hello, I am Giovany! 👋
 
-Sou um estudante de Ciência de Dados com qualificação profissional em Administração de Banco de Dados pelo SENAI. Faço códigos nas seguintes linguagens:
+As a future data scientist and physicist, I work with:
 - 🐍Python;
 - 🖥SQL;
 - 📊R;
-- 🤖C++ para Arduino
+- 🤖Arduino
 
-As áreas que me fascinam, seja para atuar ou por puro fascínio mesmo, são:
-- 📊Ciência de Dados, Análise de Dados e Estatística;
-- 🖥Banco de Dados;
-- ∞Matemática;
-- ⚛Física, Astronomia e Eletrônica;
-- 🤖Inteligência Artificial e Robótica;
-- 🧪Química
+The fields I am fascinated are (for acting or pure fascination):
+- 📊Data Science, Data Analysis and Statistics;
+- 🖥SQL and NoSQL Databases;
+- ∞Mathematics;
+- ⚛Physics, Astronomy and Electronics;
+- 🤖Artificial Intelligence and Robotics;
+- 🧪Chemistry
 
 
-Para contato, segue em anexo algumas formas!
+For contact, these are the ways:
 
 <div align= center>
 
