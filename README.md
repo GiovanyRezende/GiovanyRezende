@@ -14,15 +14,12 @@ The fields I am fascinated are (for acting or pure fascination):
 - 🤖Artificial Intelligence and Robotics;
 - 🧪Chemistry
 
+## My GitHub status:
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GiovanyRezende&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
 
-For contact, these are the ways:
+#### For contact, these are the ways:
 
-<div align= center>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanyrezende/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/giovanyr_medeiros/)
 
-[![logo](https://cdn-icons-png.flaticon.com/256/174/174857.png)](https://br.linkedin.com/in/giovanyrezende)
 
-[![logo](https://logospng.org/download/gmail/logo-gmail-256.png)](mailto:giovanyrmedeiros@gmail.com)
-
-[![logo](https://upload.wikimedia.org/wikipedia/commons/8/82/Instagram_image.png)](https://www.instagram.com/giovanyr_medeiros/)
-
-</div>
